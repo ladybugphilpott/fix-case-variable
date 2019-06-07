@@ -3,8 +3,8 @@
   "documentation": "https://github.com/ladybugphilpott/fix-case-variable",
   "versions": [
     {
-        "sha": "",
-        "change_notes": ""
+        "sha": "dfda03927c4336665f397b99456e7c2851b47bcd",
+        "change_notes": "Initial version of the variable."
     }
   ]
 }
