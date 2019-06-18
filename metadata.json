@@ -3,8 +3,12 @@
   "documentation": "https://github.com/ladybugphilpott/fix-case-variable",
   "versions": [
     {
+      "sha": "e6aa41bc79ae2cfe41446ee348053c374f38f284",
+      "changeNotes": "Fixed an issue with the brand field again."
+    },
+    {
         "sha": "b49001d49a85d9c888b0c5b70be9afcdf794133a",
-        "changeNotes": "Fixed an issue with the brand field",
+        "changeNotes": "Fixed an issue with the brand field"
     },
     {
         "sha": "dfda03927c4336665f397b99456e7c2851b47bcd",
