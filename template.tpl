@@ -10,7 +10,9 @@
   "containerContexts": [
     "WEB"
   ],
-  "brand": {}
+  "brand": {
+    "displayName": "Custom Template"
+  }
 }
 
 
