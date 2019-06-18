@@ -11,7 +11,8 @@
     "WEB"
   ],
   "brand": {
-    "displayName": "Custom Template"
+    "displayName": "Custom Template",
+    "id": "cvt_temp_public_id_brand"
   }
 }
 
