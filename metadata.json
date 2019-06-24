@@ -4,7 +4,7 @@
   "versions": [
     {
       "sha": "3c8618b549d825481e61006063d33a42409c7c88"
-    }
+    },
     {
       "sha": "e6aa41bc79ae2cfe41446ee348053c374f38f284",
       "changeNotes": "Fixed an issue with the brand field again."
