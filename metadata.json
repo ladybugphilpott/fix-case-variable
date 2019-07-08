@@ -1,24 +1,28 @@
 {
-  "homepage": "https://github.com/ladybugphilpott",
-  "documentation": "https://github.com/ladybugphilpott/fix-case-variable",
-  "versions": [
-    {
-      "sha": "7832c317dcf611edb1271d8bc62ae507b25b1422"
-    },
-    {
-      "sha": "3c8618b549d825481e61006063d33a42409c7c88"
-    },
-    {
-      "sha": "e6aa41bc79ae2cfe41446ee348053c374f38f284",
-      "changeNotes": "Fixed an issue with the brand field again."
-    },
-    {
-        "sha": "b49001d49a85d9c888b0c5b70be9afcdf794133a",
-        "changeNotes": "Fixed an issue with the brand field"
-    },
-    {
-        "sha": "dfda03927c4336665f397b99456e7c2851b47bcd",
-        "changeNotes": "Initial version of the variable."
-    }
-  ]
+    "homepage": "https://github.com/ladybugphilpott",
+    "documentation": "https://github.com/ladybugphilpott/fix-case-variable",
+    "versions": [
+        {
+            "sha": "24e60e6dc258297521487a509c2f17e8f5660c41",
+            "changeNotes": "test test test"
+        },
+        {
+            "sha": "7832c317dcf611edb1271d8bc62ae507b25b1422"
+        },
+        {
+            "sha": "3c8618b549d825481e61006063d33a42409c7c88"
+        },
+        {
+            "sha": "e6aa41bc79ae2cfe41446ee348053c374f38f284",
+            "changeNotes": "Fixed an issue with the brand field again."
+        },
+        {
+            "sha": "b49001d49a85d9c888b0c5b70be9afcdf794133a",
+            "changeNotes": "Fixed an issue with the brand field"
+        },
+        {
+            "sha": "dfda03927c4336665f397b99456e7c2851b47bcd",
+            "changeNotes": "Initial version of the variable."
+        }
+    ]
 }
