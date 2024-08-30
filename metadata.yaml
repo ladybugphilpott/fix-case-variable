@@ -1,6 +1,8 @@
 homepage: https://github.com/ladybugphilpott
 documentation: https://github.com/ladybugphilpott/fix-case-variable
 versions:
+    -   sha: 84c0c5e1a5d36f48709ad8a742b27ff0bcd5e9e1
+        changeNotes: I got this!
     -   sha: ddf22322fc720ff30a3c27ee84472194ea8e2439
     -   sha: 257c884a6f8ce933aa07c83752d5ca4ec0f7fe71
     -
