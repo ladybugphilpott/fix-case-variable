@@ -1,6 +1,7 @@
 homepage: https://github.com/ladybugphilpott
 documentation: https://github.com/ladybugphilpott/fix-case-variable
 versions:
+    -   sha: ed3bcde64a02094cb09dd7d186e0d36f6d03cafb
     -   sha: 84c0c5e1a5d36f48709ad8a742b27ff0bcd5e9e1
         changeNotes: I got this!
     -   sha: ddf22322fc720ff30a3c27ee84472194ea8e2439
@@ -15,10 +16,3 @@ versions:
         sha: 7832c317dcf611edb1271d8bc62ae507b25b1422
     -
         sha: 3c8618b549d825481e61006063d33a42409c7c88
-    -
-        sha: e6aa41bc79ae2cfe41446ee348053c374f38f284
-        changeNotes: Fixed an issue with the brand field again.
-    -   sha: b49001d49a85d9c888b0c5b70be9afcdf794133a
-        changeNotes: Fixed an issue with the brand field
-    -   sha: dfda03927c4336665f397b99456e7c2851b47bcd
-        changeNotes: Initial version of the variable.
