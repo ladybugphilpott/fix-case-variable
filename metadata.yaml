@@ -1,6 +1,7 @@
 homepage: https://github.com/ladybugphilpott
 documentation: https://github.com/ladybugphilpott/fix-case-variable
 versions:
+    -   sha: late_sync_tag
     -   sha: ed3bcde64a02094cb09dd7d186e0d36f6d03cafb
     -   sha: 84c0c5e1a5d36f48709ad8a742b27ff0bcd5e9e1
         changeNotes: I got this!
